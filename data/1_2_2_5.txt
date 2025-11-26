@@ -1,0 +1,56 @@
+
+    Curious about Wi-Fi calling and what it entails? Here's the rundown on what you need to know.
+  
+
+On Wednesday, Google announced that Google Fi, previously known as Project Fi, will be expanding to iPhones, Samsung and OnePlus phones. For a service that was once compatible with only a handful of Android phones, this is a notable development for the company's Wi-Fi first network.
+
+You can make a Wi-Fi call anywhere there's a Wi-Fi network available.
+
+But making a Wi-Fi call on a phone is nothing new. The ability to patch a call using a Wi-Fi connection instead of a cellular one has been around for years, with Skype being one of oldest and most popular apps to do so.
+
+And just as carrier technology continues to evolve, so does Wi-Fi calling. In addition to more third-party apps popping up to take on Skype (like the Facebook-owned WhatsApp and Messenger), phone makers themselves are taking on Wi-Fi calling with native apps, including Apple iOS' FaceTime and Google Android's Duo.    
+
+There are also phone networks that prioritize Wi-Fi calling first, like Google Fi and Republic Wireless, which offer customers cheaper alternatives to regular phone plans. To compete with this, legacy carriers that use traditional cellular technology have adopted Wi-Fi calling too. Whether it's because they want to bolster their network coverage or improve user experience, T-Mobile AT&T, Verizon and Sprint sell phones that have Wi-Fi calling features baked in.
+
+To help you make sense of what Wi-Fi calling is, why it's important and what you can use it for, CNET put together a handy guide to walk  you through everything you need to know.     
+
+Editors' note: This article was originally  published on Oct. 8, 2015 and has been updated most recently on Nov. 28, 2018.
+
+Instead of using your carrier's network connection, your phone can make a voice call via a Wi-Fi network. This is the same Wi-Fi connection you have set up at home, or whatever Wi-Fi hotspot you happen to be on when you're out and about, such as at a cafe or library. In most ways, it's like any other phone call, and you still use regular phone numbers.
+
+T-Mobile and Sprint were the first major carriers to support Wi-Fi calling. But now all networks, including AT&T and Verizon, have it.
+
+Wi-Fi calling is especially useful when you're in an area with weak carrier coverage. For example, when you're traveling to the residential countryside, or you're in a building with spotty reception. You may already be familiar with using Wi-Fi to send messages when SMS texting is unavailable (iPhone users will be familiar with their native blue-colored texts from iMessage, and apps like Kik and Messenger also provide these services) -- and the same applies when you're trying to place a call. With Wi-Fi, you can call a friend up even if you're in a dingy, underground bar (assuming you can connect to the bar's Wi-Fi, that is).   
+
+Built-in Wi-Fi calling has some advantages over third-party services like Skype. 
+
+In a way, yes. There are various services including Skype, WhatsApp, Messenger and Viber that provide what's known under the umbrella term VoIP, for "voice over Internet Protocol," to make calls with either a Wi-Fi or data connection.     
+
+Carrier-branded Wi-Fi calling is slightly different, however. It's baked directly into the phone's dialer, so you don't need to fire up an app or connect to a service to use it. You can set it as your default way of placing a call, or if you lose phone signal, it will automatically switch to Wi-Fi calling.     
+
+Because the service is built in, that also means you don't need to add contacts to a service as you do with Skype. You'll have access to your existing phone book, and your friends can receive your Wi-Fi call without needing to download a third-party app. With no contacts to add, carrier Wi-Fi calling requires little effort to set up.
+
+When Apple included Wi-Fi calling capabilities in its iPhone 6 in 2014, the four major carriers in the US ramped up their support of it. These days, you can find several phones on T-Mobile, Verizon, AT&T, and Sprint that have built-in Wi-Fi calling capabilities.
+
+On T-Mobile, the majority of new Android phones offer Wi-Fi calling built-in, while AT&T has 35 phones in its lineup. Most phones on Verizon are capable of Wi-Fi calling, but it's unclear exactly how many phones in total have it. The carrier also specifies you must have a phone that has both Wi-Fi calling and HD Voice enabled to be eligible for Wi-Fi calling.   
+
+As for Sprint, it offers Wi-Fi calling on several Android phones too, in addition to iPhones including the 5C and newer. But while Android and iOS after 2016 have no restrictions, phones that launched before that year may not be able to make outbound calls outside Sprint's coverage areas (incoming calls may still be available, however).
+
+The LG V35 ThinQ, LG G7 and Motorola Moto G6 are available on Google Fi.
+
+Google Fi and Republic Wireless switch your phone service between Wi-Fi and cellular when needed. Google Fi's hybrid service consists of T-Mobile, Sprint, U.S. Cellular and Three's network, while Republic Wireless falls back on only T-Mobile and Sprint when a Wi-Fi connection is unavailable.
+
+Google Fi sells seven Android phones, including the Pixel 3 and 3 XL, the LG G7 ThinQ and the Moto G6. But as mentioned before, the service will now include iPhones, Samsung and OnePlus phones, as well as other LG and Moto devices. Republic Wireless has 13 phones, like the Galaxy S9 and Moto G5 Plus. You can also bring your own phone to the carrier, as long as it's the North American variant of the phone, it's unlocked and uses GSM technology.
+
+Except in uncommon cases like making a premium call, domestic Wi-Fi calls should be free. If you make a VoIP call over your data network, however, that will eat into your phone plan's monthly data allowance, so be aware of that. Also, be sure to read the policies of your carrier to see if any of their potential restrictions and charges relate to your situation. Click the following to read the restrictions and billing rules for T-Mobile, Verizon, AT&T and Sprint.
+
+If you're running out of minutes, using services like Skype or WhatsApp will help avoid incurring any additional charges.     
+
+That depends on the carrier. Usually, if you're traveling internationally but call a US number, the call should be free. But carriers have different rules if you're calling an international number. To make sense of all the different scenarios, caveats and carriers, check out the charts below:   
+
+If you're going abroad and want to keep in touch, it's best to avoid messing with your carrier altogether when making a call, and stick with third-party apps like Skype and WhatsApp when you're connected to a building or hotel's Wi-Fi. You can use data, but remember that it will cost you a lot if you're roaming on cellular networks. If you don't have a roaming plan, make sure you only use Wi-Fi and turn off data roaming in your settings before heading out.
+
+Google got into the Wi-Fi calling mix in 2015 with its Google Fi, then known as Project Fi.
+
+Though the higher throughput you have the better your connection will be, a minimum of 1Mbps should be enough to patch a solid call through. Republic Wireless reports that it can hold a call with 80Kbps, but the quality may decrease and you'll experience more dropped calls as well. Keep in mind that the number of people currently using a Wi-Fi network and what they're doing (20 people each streaming a 4K video, for example) may also affect your signal strength.
+

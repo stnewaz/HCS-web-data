@@ -1,0 +1,96 @@
+F T I
+
+Laboratory safety programs apply across many, if not all, campus laboratories. They are developed to ensure the health and safety of university members and to ensure regulatory compliance. The programs also set out the university's program-specific requirements as well as support education and training. The SFU Laboratory safety manual assembles key information from the SFU Laboratory safety program in a single document.
+
+
+Decommissioning
+
+
+
+Hazardous waste
+
+
+
+Inspections
+
+
+
+Inventory
+
+
+
+PPE
+
+
+
+Pregnancy
+
+
+
+Procedures
+
+
+
+Program manuals
+
+
+
+Signage
+
+
+
+Transport
+
+
+
+Mercury Thermometer Swap Initiative
+
+
+
+Volunteers
+
+
+Most laboratory buildings experience occasional brief periods of power loss. Power outages can be unpredictable in duration and timing. These instances may be minor disturbances or could damage equipment or ruin experimentation. Longer term power outages may cause significant disruption and loss. It is important to consider the effects of long-term and short-term power loss and implement plans to minimize negative outcomes.
+
+Each laboratory should develop a plan to protect laboratory equipment, materials, and research from loss and to prevent hazardous conditions from developing during a power outage.
+
+EHS has created a Laboratory Power Outages Guide and a Laboratory Power Outages Infosheet, that enable faculty, staff, researchers and students that work in laboratories with hazardous materials and equipment, to prepare when a planned or unplanned power outage impacts laboratory operation. These documents suggest actions to take before, during and after a power outage.
+
+SFU is dedicated to ensuring a safe and healthy environment for its community by managing hazardous materials through established programs such as the Biosafety, Radiation Safety, and Chemical Safety Programs, to regulate the safe use, storage, and disposal of these materials.
+
+In the event of a hazardous material spill or release, SFU has a Hazardous Materials Emergency Response Plan in place. This plan provides a structured approach for responding to incidents, assessing risks, assigning responsibilities, and outlining the necessary steps to take during the emergency.
+
+The plan complies with Part 5 of WorkSafeBC's Occupational Health and Safety Regulation, which sets the requirements for emergency planning related to hazardous substances. The plan was recently updated to incorporate WorkSafeBC regulatory amendments. Key components are listed below.
+
+When a hazardous material spill occurs, you must conduct an initial risk assessment to determine if:
+
+University laboratories work with a variety of hazardous materials, each of which may have specific considerations for spill cleanup.
+
+Review the material-specific spill response procedures below.
+
+Minor spills of hazardous materials that present no immediate threat to health or safety can usually be cleaned up by lab workers. As a rough guide, spills of less than 50 mL are normally considered to be minor. If you are ever in doubt, evacuate and call for assistance.
+
+When deciding how to proceed with cleanup of a minor spill, answer the following questions:
+
+Major spills of hazardous materials present an immediate threat to health and safety and require additional planning and resources. Depending on the material, a small spill can still be serious and require a coordinated spill response. Always exercise caution.
+
+In the event of a major spill, notify everyone around you and immediately evacuate using the further exit from the spill.
+
+Call Campus Public Safety (778.782.4500) and Environmental Health and Safety for assistance.
+
+If it is necessary to evacuate the entire building, pull the fire alarm and call 911.
+
+For skin and eye exposure to Chemical or Biological hazards:
+
+For skin and eye exposure to Radiological materials:
+
+This Laboratory Access Protocol contains information for Facilities Services and the laboratory staff.
+
+This Laboratory Access Protocol contains information for contractors.
+
+This Fume hood/Strobic Exhaust System Maintenance Procedure contains information for Facilities Services, EHS, laboratory staff, and area managers/supervisors.
+
+8888 University DriveBurnaby, B.C.Canada V5A 1S6 
+
+Simon Fraser University respectfully acknowledges the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səlilwətaɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo and Tsawwassen peoples on whose unceded traditional territories our three campuses reside.
+
