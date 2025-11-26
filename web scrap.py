@@ -13,7 +13,7 @@ def extract_text_from_webpage(url, txt_file_name):
     text_data = [p.get_text() for p in paragraphs]
 
     # Define the output txt file
-    file_name = f"data\{txt_file_name}.txt"
+    file_name = f"C:/Users/samsa/Documents/CLASSES/IAT 360/final/output/web-scraped/{txt_file_name}.txt"
 
     # Open the file in write mode
     with open(file_name, 'w', encoding='utf-8') as file:
@@ -23,10 +23,22 @@ def extract_text_from_webpage(url, txt_file_name):
 
     print(f'Data successfully saved to {file_name}')
 
-csv_file = 'HCS website copy.csv' 
+csv_file = "C:/Users/samsa/Documents/CLASSES/IAT 360/final/datasets/HCS_website2.csv"
 df = pd.read_csv(csv_file)
 
-list_of_exceptions = ["0_3_9_13", "0_2_1_2", "0_2_6"]
+list_of_exceptions = ["1_1_15",
+                    "1_1_2_2",
+                    "1_1_2_3",
+                    "1_1_5_2",
+                    "1_1_12_8_1",
+                    "1_1_12_10_2",
+                    "1_1_12_10_3",
+                    "1_2_4_1",
+                    "1_2_11_9",
+                    "1_2_11_10",
+                    "1_2_3_5_2",
+                    "1_2_3_5_3",
+                    "1_1_12_6_2"]
 
 # Iterate over each row in the DataFrame
 for index, row in df.iterrows():
