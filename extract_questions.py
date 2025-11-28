@@ -4,29 +4,48 @@ from colorama import Fore, Style
 from set_key import set_api_key_from_file
 
 def read_text_file(file_path):
+    print('read_text_file has started running')
     with open(file_path, 'r', encoding='utf-8') as file:
         return file.read()
 
 def generate_questions(text):
+    print('generate_questions has started running')
     prompt = f"Generate a list of questions by a user that can be answered using this extracted text from a website.\n\n{text}"
     client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
-    response = client.chat.completions.create(
-        model="gpt-3.5-turbo", 
-        messages=[
-            {
-                "role": "user",
-                "content": prompt + " only write the questions.",
-            }
-        ],
-        n=1,
-        stop=None,
+    # response = client.chat.completions.create(
+    #     model="gpt-3.5 turbo", 
+    #     messages=[
+    #         {
+    #             "role": "user",
+    #             "content": prompt + " only write the questions.",
+    #         }
+    #     ],
+    #     n=1,
+    #     stop=None,
+    #     temperature=0.7
+    # )
+    response = client.responses.create(
+        #gpt-3.5 turbo, 4, 4o, 4.1, all give the same error? 
+        model="gpt-4o-mini", 
+        #changed the input based off the documentation
+        #i think it's not the current issue, since it's no longer throwing unexpected argument errors at me anymore
+        input = [{"role": "user", "content": prompt + " only write the questions."}],
+        # n=1,
+        # stop=None,
         temperature=0.7
     )
-    questions = response.choices[0].message.content
+    print('made it out of client.response.create()')
+    print(response)
+    #not sure if this is correct syntax, but i don't think it's making it this far yet anyways
+    questions = response.output.content.text
+    print('generate_questions has finished running')
     return questions
     
 
 def process_files(input_directory, output_directory):
+
+    print('process_files function is has started running')
+
     if filename.endswith(".txt"):
         file_path = os.path.join(input_directory, filename)
         text_content = read_text_file(file_path)
@@ -47,7 +66,11 @@ def process_files(input_directory, output_directory):
 set_api_key_from_file()
 input_directory = 'data'
 output_directory = 'questions'
-all_data_files = os.listdir(input_directory)
+# all_data_files = os.listdir(input_directory)
+
+test_input_directory = 'test_data_input'
+new_output_directory = 'new_questions_output'
+all_data_files = os.listdir(test_input_directory)
 
 '''intrupted_indexes = [77] #undefiened characters, pdf
 
@@ -58,7 +81,11 @@ empty_files = ['0_9_2_1.txt', '0_4_5.txt', '0_3_2_6_1.txt',
 # others not traced : link to youtube, pdf, not informative business websites
 traced_manually = ['0_9_2_1.txt', '0_1_4_2.txt']'''
 
-start = 78
-for i, filename in enumerate(all_data_files[start:]):
+# start = 78
+# it think this should make it work, it was starting at a list number that didn't exist in the test folder
+start = 0
+
+for i, filename in enumerate(all_data_files[start:2]):
     print(f"{i+start}", end=' ')
-    process_files(input_directory, output_directory)
+    # process_files(input_directory, output_directory)
+    process_files(test_input_directory, new_output_directory)
