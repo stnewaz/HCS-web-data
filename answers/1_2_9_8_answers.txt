@@ -1,0 +1,80 @@
+1.
+BellyBio is designed for deep abdominal breathing, biofeedback, and music synchronization with breathing patterns.
+
+2.
+BellyBio enhances deep breathing by:
+
+1. Generating synchronized music and light with deep abdominal breathing movements, making deep breathing more enjoyable.
+2. Providing real-time biofeedback on stress levels based on breathing patterns, making biofeedback more accessible and effective.
+3. Acting as an "Abdominal Music Player" that plays music in sync with breathing, helping to calm the breath.
+
+3.
+Yes, BellyBio can be used by beginners.
+
+4.
+- Real-time breathing and stress curves graph
+- Log of date, duration of use, minimum stress, minimum breath rate, and Qi production
+- Interactive musical themes that play in sync with deep abdominal breathing
+- Audio stress-level feedback through pitch of the inhaling tone
+- Breathing colors displayed in sync with each in- and out-breath
+- 3D-earth animation showing all BellyBio users on the planet
+
+5.
+Yes.
+
+6.
+BellyBio generates beautiful music synchronized to deep abdominal breathing movements and offers several interactive musical themes.
+
+7.
+The iPhone should be properly positioned on your pelvis, face up, so that it tilts back and forth when you breathe deeply in and out from your belly. The bottom of the iPhone should rest still on your pelvis while the top moves up and down with your lower belly as you breathe in and out.
+
+8.
+a) Be able to naturally breathe deeply and slowly from your belly.  
+b) Properly position the iPhone on your pelvis, face up, so it tilts back and forth as you breathe deeply.
+
+9.
+The purpose of the real-time stress-level index in BellyBio is to provide an objective measurement of stress levels based on the user's breathing pattern, making biofeedback simpler and more powerful.
+
+10.
+- Several interactive musical themes that play in sync with deep abdominal breathing.
+- Direct audio stress-level feedback through the pitch of the inhaling tone.
+- Choice of breathing colors displayed in sync with each in- and out-breath.
+- Graph showing real-time breathing and stress curves.
+- Log of usage data (date, duration of use, minimum stress, minimum breath rate, Qi production).
+- 3D-earth animation showing all BellyBio users on the planet.
+
+11.
+Yes, there is an in-app demo available to see how it works. You can watch it at www.youtube.com/bellybio.
+
+12.
+BellyBio is child-proof and has been successfully tested on a 5-year-old with adult assistance.
+
+13.
+The app provides real-time, objective stress-level feedback based on breathing patterns, audio stress-level feedback through the pitch of the inhaling tone, and visual feedback with colorful displays synced to each in- and out-breath.
+
+14.
+Yes, there are additional musical themes available for purchase in BellyBio.
+
+15.
+Users generally praise BellyBio for its effectiveness in helping them practice deep belly breathing and reducing stress. They find it innovative and useful for meditation, with features that track breathing and play music to encourage proper breathing techniques. Some users mention it as a great tool for beginners and recommend it as part of a relaxation strategy, although a few note issues with bugs affecting the app's stability.
+
+16.
+Yes, the app has been updated recently.
+
+17.
+Stop immediately and consult your physician or health professional.
+
+18.
+The app's file size is 170 MB, and Wi-Fi is required to download it.
+
+19.
+BellyBio differs from traditional music players in that it synchronizes music with deep abdominal breathing, making the music play in sync with the user's breathing pattern. This integration encourages calm breathing and provides real-time biofeedback based on the user's stress levels, creating an interactive experience that traditional music players do not offer.
+
+20.
+1. Improves deep abdominal breathing technique.
+2. Reduces stress and anxiety.
+3. Enhances relaxation and grounding.
+4. Provides real-time feedback on breathing patterns.
+5. Encourages calmness through music synchronization.
+6. Aids in meditation and mindfulness practices.
+

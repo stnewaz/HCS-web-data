@@ -1,0 +1,34 @@
+1.
+An SFU Computing ID.
+
+2.
+Sign in at https://canvas.sfu.ca/login/canvas.
+
+3.
+You can read the complete Canvas Privacy Protection Notice on the Canvas login page at https://canvas.sfu.ca/login/canvas.
+
+4.
+By using Canvas, you confirm that you have read, understand, and agree to the Canvas Privacy Protection Notice.
+
+5.
+Ignore all messages requesting your Computing ID and/or password information, regardless of how authentic they may appear.
+
+6.
+1. SFU will never request your Computing ID or password via email or by visiting any website.
+2. Ignore messages requesting your Computing ID or password, regardless of how authentic they may seem.
+3. Always check that your browser displays a closed lock icon.
+4. Ensure the URL starts with https://cas.sfu.ca and not any other address.
+5. If you're unsure, do not enter your password.
+
+7.
+Check that your browser shows a closed lock icon and that the URL of the page starts with https://cas.sfu.ca.
+
+8.
+Strand Hall 1001, 8888 University Drive, Burnaby, B.C., Canada. V5A 1S6
+
+9.
+xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh Úxwumixw (Squamish), səl̓ilw̓ətaʔɬ (Tsleil-Waututh), q̓íc̓əy̓ (Katzie), kʷikʷəƛ̓əm (Kwikwetlem), Qayqayt, Kwantlen, Semiahmoo, Tsawwassen
+
+10.
+If you're not sure, do not enter your password. Always check that your browser shows a closed lock icon and that the URL starts with https://cas.sfu.ca and not some other address.
+

@@ -1,0 +1,53 @@
+1.
+It means that the server could not locate the resource or page associated with the requested URL.
+
+2.
+1. The URL was typed incorrectly.
+2. The webpage has been moved or deleted.
+3. The server is experiencing issues.
+
+3.
+1. Check the URL for typos or errors.
+2. Refresh the page or try again later.
+3. Clear your browser cache and cookies.
+4. Ensure the page is still available or has not been moved.
+5. Try accessing the page from a different device or network.
+
+4.
+1. Check the URL for typos or errors.
+2. Refresh the page or try again later.
+3. Use the website's search feature to find the desired content.
+4. Navigate to the homepage and look for links to the content.
+5. Contact the website's support for assistance.
+
+5.
+Yes, a URL can change, leading to it not being found.
+
+6.
+1. Implement custom 404 error pages.
+2. Regularly check for broken links.
+3. Use redirects for moved content.
+4. Maintain a clear site structure.
+5. Update or remove outdated content.
+
+7.
+1. Check the URL for typos or errors and try again.
+2. Use the website's search feature to find the content.
+3. Look for the page on the Wayback Machine (archive.org).
+4. Contact the website administrator for assistance.
+
+8.
+To report a broken link on a website, you can usually look for a "Contact Us" or "Feedback" section on the site. Use the provided email address or contact form to inform the website administrators about the broken link, including the URL that is not working and any relevant details. Alternatively, some websites may have a dedicated "Report a Problem" feature for this purpose.
+
+9.
+1. Google Search Console
+2. Screaming Frog SEO Spider
+3. Ahrefs
+4. Broken Link Checker
+5. Dead Link Checker
+6. W3C Link Checker
+7. SEMrush
+
+10.
+Yes, having "404 Not Found" errors can negatively impact SEO by harming user experience, increasing bounce rates, and potentially affecting the site's overall authority and rankings. It's important to manage these errors by redirecting users to relevant content or providing a helpful 404 page.
+

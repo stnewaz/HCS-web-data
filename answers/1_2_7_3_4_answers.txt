@@ -1,0 +1,41 @@
+1.
+The requested resource could not be found on the server.
+
+2.
+Mod_Security is an open-source web application firewall (WAF) that helps protect web applications from various attacks by monitoring and filtering HTTP traffic. It provides real-time monitoring, logging, and access control, and can enforce security policies to prevent vulnerabilities like SQL injection and cross-site scripting (XSS).
+
+3.
+1. The resource may have been deleted or moved.
+2. The URL may be incorrect or malformed.
+3. The server may be experiencing configuration issues.
+4. Access permissions may be preventing the resource from being displayed.
+5. The resource may be blocked by Mod_Security rules.
+
+4.
+1. Check the server logs for detailed error messages.
+2. Review the Mod_Security configuration settings.
+3. Temporarily disable Mod_Security to identify if it is the cause.
+4. Whitelist specific rules that may be blocking legitimate requests.
+5. Consult the documentation for Mod_Security for guidance on specific errors.
+6. Contact your hosting provider for assistance if issues persist.
+
+5.
+1. Check the URL for any typos or errors.
+2. Clear your browser cache and cookies.
+3. Disable any browser extensions that may interfere with the request.
+4. Try accessing the resource from a different browser or device.
+5. Contact the website administrator for assistance.
+
+6.
+Server configuration.
+
+7.
+1. Malicious scripts
+2. Exploit attempts
+3. Invalid input data
+4. Unusual URL patterns
+5. Forbidden file types
+
+8.
+It requires server administrator intervention.
+

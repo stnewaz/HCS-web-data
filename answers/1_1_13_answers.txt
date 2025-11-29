@@ -1,0 +1,66 @@
+1.
+The BC Cancer Cervix Screening Program is responsible for overseeing cervix screening in British Columbia. It provides eligibility criteria and screening recommendations, reminds health care providers when their patients are due for screening, tracks adherence to screening recommendations, and monitors the performance and outcomes of cervix screening activities. The program is transitioning from cytology (Pap test) to HPV testing as the primary screening method for cervical cancer.
+
+2.
+Anyone with a cervix, including women and Two-Spirit, transgender, and non-binary individuals, age 25 to 69 should get screened regularly for cervical cancer.
+
+3.
+Every five years for cervix self-screening or every three years for those recommended to have a Pap test.
+
+4.
+HPV testing
+
+5.
+1. Vaginal swab
+2. Provider-collected liquid-based cytology (LBC) sample
+
+6.
+Health care providers can order cervix screening supplies through the Cervix Screening Supplies online system. They need to enroll their clinic by completing the Cervix Screening Supplies registration form if they have not used the system before.
+
+7.
+Repeat HPV testing. If the repeat test is invalid, refer to colposcopy. If a patient continues to have an invalid result with three separate tests, regardless of collection method, they will be referred to colposcopy.
+
+8.
+Pregnant individuals should screen with a provider-collected liquid-based cytology (LBC) sample if screening is due or overdue. Routine screening is not necessary as a part of prenatal care for those who are up to date with screening. Self-screening is not recommended for pregnant patients.
+
+9.
+For individuals with a history of cervical abnormalities, the following procedures apply:
+
+1. **Received excisional treatment for CIN 2 and CIN 3:**
+   - At 12 months post-discharge from colposcopy, screen with a co-test (HPV and cytology testing).
+   - If HPV not detected and cytology is NILM, ASCUS, or LSIL: Routine HPV-based screening at 3-year intervals (average risk) or 1-year interval (immunocompromised).
+   - If HPV detected or cytology is ASC-H, HSIL, or AGC: Re-refer to colposcopy.
+   - Stop screening at age 69 (average risk) or age 74 (immunocompromised) if patient has had a negative co-test and is under no active surveillance of precursor abnormalities.
+
+2. **Received excisional treatment for endocervical adenocarcinoma in situ (AIS):**
+   - At 12 months post-discharge from colposcopy, screen with a co-test (HPV and cytology testing).
+   - If HPV not detected and cytology is NILM, ASCUS, or LSIL: Routine HPV-based screening at 3-year intervals (average risk) or 1-year interval (immunocompromised).
+   - If HPV detected or cytology is ASC-H, HSIL, or AGC: Re-refer to colposcopy.
+   - Stop screening at age 69 (average risk) or age 74 (immunocompromised) if patient has had a negative co-test and is under no active surveillance of precursor abnormalities.
+
+3. **History of invasive carcinoma:**
+   - The patient's colposcopist or oncologist is responsible for outlining the post-treatment follow-up for the first 5 years.
+   - Once discharged, routine screening is not recommended; ongoing surveillance for recurrence by someone experienced in cervical disease is recommended.
+
+10.
+BC is transitioning from cytology (Pap test) to HPV testing as the primary screening method for cervical cancer. Cervix self-screening is recommended every five years for women and people with a cervix ages 25-69 (or every three years for those who are recommended to have a Pap test).
+
+11.
+1. Negative for intraepithelial lesion or malignancy (NILM): Re-screen in 3 years.
+2. Low grade cytology (ASCUS or LSIL): The Cervical Cancer Screening Laboratory will triage the sample to reflex HPV testing. If HPV is not detected, return to routine screening. If HPV 16/18 is detected, colposcopy is recommended. If HPV Other is detected, repeat HPV test in 12 months.
+3. High grade cytology (ASC-H, HSIL, AGC, AIS): Colposcopy is recommended.
+4. High-risk HPV not detected: Re-screen in 5 years.
+5. High-risk HPV detected with negative (NILM), ASCUS, or LSIL cytology: Repeat HPV test in 12 months. If HPV is not detected, return to routine screening. If HPV is detected, refer to colposcopy.
+
+12.
+Patients can access their screening test results through the Health Gateway, where BC Cancer mails reminders and results to screening program participants.
+
+13.
+Cervix self-screening is recommended every five years for women and people with a cervix ages 25-69, or every three years for those who are recommended to have a Pap test. Self-screening is not recommended for patients who are pregnant or using a pessary. Before offering self-screening, ensure the patient is due and eligible to avoid over-screening.
+
+14.
+If a patient has an unsatisfactory sample, the health care provider should send a self-screening kit to the patient at the time of the invalid result notification. If the repeat test is invalid, the patient should be referred to colposcopy.
+
+15.
+Screening tests are analyzed and results are provided by the Cervical Cancer Screening Laboratory (CCSL), which is operated by PHSA’s Provincial Laboratory Medicine Services. BC Cancer mails reminders and screening test results to screening program participants, and health care providers are also notified when their patients are due for screening and of their patients’ screening test results.
+

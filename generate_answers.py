@@ -11,7 +11,7 @@ def generate_answers(question, text):
     prompt = f"Answer the question based on the provided context.\n\nQuestion: {question}\n\nContext: {text}"
     client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo", 
+        model="gpt-4o-mini", 
         messages=[
             {
                 "role": "user",
@@ -50,7 +50,7 @@ def process_files(input_directory, context_directory, output_directory):
             
 
 set_api_key_from_file()
-input_directory = 'questions'
+input_directory = 'new_questions_output'
 output_directory = 'answers'
 context_directory = 'data'
 all_data_files = os.listdir(input_directory)

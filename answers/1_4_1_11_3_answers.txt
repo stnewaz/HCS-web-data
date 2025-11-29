@@ -1,0 +1,27 @@
+1.
+1. Reduce the size of your files before uploading.
+2. Split the files into smaller parts for upload.
+3. Use an alternative storage service with a larger file size limit.
+
+2.
+To create a free account on SFU Vault, visit the SFU Vault website and follow the sign-up instructions provided there.
+
+3.
+SFU Vault is safe and secure storage in the SFU Data Centre.
+
+4.
+In the SFU Data Centre.
+
+5.
+Yes, SFU Vault is a secure storage option.
+
+6.
+Yes, you can sync your devices with SFU Vault.
+
+7.
+1. Safe and secure storage in the SFU Data Centre.
+2. Free account available for users.
+
+8.
+Yes, the files you are trying to upload exceed the maximum size for file uploads on this server.
+

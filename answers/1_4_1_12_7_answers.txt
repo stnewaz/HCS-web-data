@@ -1,0 +1,28 @@
+1.
+To use your Google Account to sign in, follow these steps:
+
+1. Enter your Google Account email address.
+2. Enter your password.
+3. Click on the "Sign in" button.
+
+2.
+If you forgot your email, you can click on the "Forgot email?" link to recover it.
+
+3.
+No, it is not safe to sign in on a public or shared computer.
+
+4.
+A private browsing window is a mode in web browsers that allows users to browse the internet without storing browsing history, cookies, or site data. It helps maintain privacy by not saving information about the user's online activities.
+
+5.
+To use Guest mode for signing in, open a private browsing window.
+
+6.
+Learn more about using Guest mode.
+
+7.
+1. Enhanced privacy by not saving browsing history.
+2. Prevention of cookies and site data from being stored.
+3. Ability to browse without affecting your main browsing session.
+4. Useful for logging into multiple accounts simultaneously.
+

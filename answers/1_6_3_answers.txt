@@ -1,0 +1,64 @@
+1.
+It means that the server cannot locate the resource or webpage associated with the requested URL, often indicating that the URL is incorrect or that the page has been removed.
+
+2.
+1. The URL was typed incorrectly.
+2. The page has been moved or deleted.
+3. The link to the page is outdated.
+
+3.
+1. Check the URL for typos.
+2. Refresh the page or try again later.
+3. Clear your browser's cache and cookies.
+4. Use a search engine to find the page.
+5. Check if the website is down for maintenance.
+6. Look for the page in the website's sitemap.
+7. Contact the website's support for assistance.
+
+4.
+1. Check the URL for typos or errors.
+2. Refresh the page or try again later.
+3. Navigate to the homepage and look for the desired content.
+4. Clear your browser cache and cookies.
+5. Use a search engine to find the information you need.
+
+5.
+1. Check the Wayback Machine (archive.org) for archived versions of the webpage.
+2. Look for cached versions in search engines like Google.
+3. Contact the website owner for a potential backup.
+4. Use a browser's cache if the page was recently viewed.
+
+6.
+1. Use a web browser to enter the URL and see if it loads.
+2. Use online URL validation tools.
+3. Check for correct formatting (e.g., proper use of HTTP/HTTPS, no spaces).
+4. Use command-line tools like `curl` or `ping` to test the URL.
+5. Look for a response code (e.g., 200 OK) to confirm validity.
+
+7.
+1. Check the URL for errors.
+2. Use a search engine to find the new location.
+3. Visit the website's homepage and navigate from there.
+4. Clear your browser's cache and cookies.
+5. Contact the website's support for assistance.
+
+8.
+Yes, a website owner can fix a "not found" error by checking the URL for accuracy, ensuring the requested page exists, and properly configuring server settings.
+
+9.
+To report a broken link to a website, you can usually follow these steps:
+
+1. Look for a "Contact Us" or "Report a Problem" section on the website.
+2. Send an email to the website's support or webmaster email address, if available.
+3. Use any feedback or contact forms provided on the website.
+4. Provide the URL of the broken link and any relevant details about the issue.
+
+10.
+1. Google Search Console
+2. Broken Link Checker
+3. Screaming Frog SEO Spider
+4. Ahrefs
+5. Dead Link Checker
+6. W3C Link Checker
+7. SEMrush
+
