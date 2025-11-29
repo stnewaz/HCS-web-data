@@ -79,11 +79,17 @@ input_directory = 'data'
 output_directory = 'questions'
 all_data_files = os.listdir(input_directory)
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 
 test_input_directory = 'test_data_input'
 new_output_directory = 'new_questions_output'
 # all_data_files = os.listdir(test_input_directory)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 
 '''intrupted_indexes = [77] #undefiened characters, pdf
@@ -109,4 +115,7 @@ for i, filename in enumerate(all_data_files[start:]):
     print(f"{i+start}", end=' ')
     # process_files(input_directory, output_directory)
     process_files(input_directory, new_output_directory)
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
