@@ -1,0 +1,6 @@
+1. Which versions of Internet Explorer do not support creating presentations?
+2. What web browsers are recommended for creating presentations?
+3. How can I resolve issues if I'm using Internet Explorer 8 or later?
+4. What should I do if I cannot find my room on the website?
+5. How can I provide feedback if my search request is not located?
+6. What should I check if my search request doesn’t yield results?
