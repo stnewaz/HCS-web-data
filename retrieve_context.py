@@ -1,10 +1,26 @@
 import pickle
 import numpy as np
 import pandas as pd
-from generate_embeddings import get_embedding
+
 from merge_data_with_embeddings import add_embedding_to_df
 from gen_tfidf_vector import preprocess_text
 from set_key import set_api_key_from_file
+
+from openai import OpenAI
+import os
+
+def get_embedding(text, model="text-embedding-3-small"):
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if not api_key:
+        raise ValueError("OPENAI_API_KEY is not set. Did you call set_api_key_from_file()?")
+
+    client = OpenAI(api_key=api_key)
+    text = text.replace("\n", " ")
+    response = client.embeddings.create(
+        model=model,
+        input=text
+    )
+    return response.data[0].embedding
 
 def cosine_similarity(a, b):
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
@@ -45,7 +61,7 @@ def context_in_applicable_form(results):
     
 
 def retrieve_context(query):
-    doc_df = add_embedding_to_df('StructuredQA.csv', 'Embeddings.csv')
+    doc_df = add_embedding_to_df('StructuredQA_final.csv', 'EmbeddingsFinal.csv')
     #doc_df = add_embedding_to_df('StructuredQA.csv', 'TFIDFVectors.csv')
 
     query_embedding = get_embedding(query)
