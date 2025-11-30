@@ -1,7 +1,7 @@
 import os
 
 def set_api_key_from_file():
-    file_path="APIKEY.txt"
+    file_path="APIKEY18.txt"
     """
     Read API key from a text file and set it as an environment variable.
 
