@@ -16,7 +16,7 @@ def set_api_key_from_file():
             api_key = file.read().strip()
             
         # Set the API key as an environment variable
-        os.environ["OPENAI_API_KEY"] = api_key
+        os.environ["APIKEY18.txt"] = api_key
         
         print(f"API key set successfully from {file_path}.")
         return True

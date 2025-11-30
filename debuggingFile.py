@@ -10,28 +10,47 @@ def read_col_values_from_file(question_directory, answer_directory, filename):
 
     questions_file_path = os.path.join(question_directory, filename + '_questions.txt')
 
-    questions = read_text_file(questions_file_path).split('\n')
-    questions = [q.split('. ')[1] for q in questions]
+    questions_raw = read_text_file(questions_file_path).split('\n')
+
+    questions = []
+    for i, q in enumerate(questions_raw):
+        q = q.strip()
+
+        if '. ' in q:
+            questions.append(q.split('. ', 1)[1].strip())
+        else:
+            print("\n❌ MALFORMED QUESTION LINE FOUND")
+            print(f"📁 File: {filename}_questions.txt")
+            print(f"📄 Line number: {i + 1}")
+            print(f"📝 Raw content: {repr(q)}")
+            print("--------------------------------------------------")
+
+            # Stop execution immediately so you can fix the file
+            raise ValueError(
+                f"Malformed question line in {filename}_questions.txt at line {i + 1}"
+            )
+
     count = len(questions)
 
     answers_file_path = os.path.join(answer_directory, filename + '_answers.txt')
     content_of_answer_file = read_text_file(answers_file_path)
     answers = re.split(r'\n(?=\d+\.\n)', content_of_answer_file)
-    answers = [a.strip().split('.\n')[1] for a in answers]
+    answers = [a.strip().split('.\n', 1)[1] for a in answers]
 
     website_data = pd.read_csv('HCS_website_edited.csv')
     filtered_df = website_data[website_data['name'] == filename]
 
     data = []
     for idx in range(count):
-        row = {"Question": questions[idx],
-               "Answer": answers[idx],
-               "File": filename,
-               "URL": filtered_df['link'].values[0]}
+        row = {
+            "Question": questions[idx],
+            "Answer": answers[idx],
+            "File": filename,
+            "URL": filtered_df['link'].values[0]
+        }
         data.append(row)
 
     return data
-
 
 q_directory = 'new_questions_output'
 a_directory = 'answers'
@@ -54,7 +73,3 @@ df.to_csv('StructuredQA_final.csv', index=False)
 #test
 #df = pd.read_csv('StructuredQA.csv')
 #print(df.head(3))
-
-
-
-
