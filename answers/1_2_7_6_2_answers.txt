@@ -1,0 +1,26 @@
+1.
+Submitting a certain word or phrase, a SQL command, or malformed data.
+
+2.
+- Submitting a certain word or phrase
+- Submitting a SQL command
+- Submitting malformed data
+
+3.
+You can email the site owner and include what you were doing when the page came up, along with the Cloudflare Ray ID found at the bottom of the page.
+
+4.
+Include what you were doing when the page came up and the Cloudflare Ray ID.
+
+5.
+The Cloudflare Ray ID is a unique identifier for the specific security event that occurred, allowing the site owner to diagnose and investigate the issue that triggered the security block.
+
+6.
+The Cloudflare Ray ID indicates a unique identifier for a specific request that was blocked by Cloudflare's security service.
+
+7.
+You can find out your IP address by looking at the message displayed on the block page, which shows "Your IP:" followed by the IP address.
+
+8.
+Cloudflare
+

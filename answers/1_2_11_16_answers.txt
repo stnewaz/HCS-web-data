@@ -1,0 +1,61 @@
+1.
+The error message indicates that the specific web page or resource you tried to access is not available on the server.
+
+2.
+1. The URL was entered incorrectly.
+2. The webpage has been moved or deleted.
+3. The server is misconfigured. 
+4. The website is temporarily down. 
+5. The link to the page is outdated.
+
+3.
+1. Check the URL for typos.
+2. Refresh the page.
+3. Clear your browser cache.
+4. Try accessing the site from another browser or device.
+5. Check if the website is down for maintenance or experiencing outages.
+6. Look for the page using the website's search function.
+7. Contact the website's support for assistance.
+
+4.
+1. Check the URL for any typos or errors.
+2. Refresh the page or try accessing it again later.
+3. Use the website's search feature to find the content.
+4. Navigate to the homepage and look for links to the desired page.
+5. Contact the website's support for assistance.
+
+5.
+1. Check the URL for typos and try again.
+2. Use the Wayback Machine to see archived versions of the page.
+3. Search for the content on the website's sitemap or search function.
+4. Look for the page on social media or other platforms where it may have been shared.
+5. Contact the website’s support or webmaster for assistance.
+
+6.
+It means that the server could not locate the requested resource or webpage.
+
+7.
+Yes, you can report a broken link that leads to a "not found" error.
+
+8.
+1. Check the URL for typos.
+2. Ensure the page exists on the server.
+3. Update links to point to the correct URL.
+4. Create a custom 404 error page to guide users.
+5. Redirect old URLs to new ones if content has moved.
+6. Use a sitemap to help search engines find pages.
+
+9.
+1. Typo in the URL
+2. Page has been moved or deleted
+3. Incorrect link or reference
+4. Server configuration issues
+5. Domain name expired or not registered
+
+10.
+1. Double-check the URL for any typos or errors.
+2. Refresh the page or try accessing the link again later.
+3. Use the website’s search feature to find the content you were looking for.
+4. Navigate to the homepage and look for the desired information from there.
+5. Contact the website’s support or help center for assistance.
+

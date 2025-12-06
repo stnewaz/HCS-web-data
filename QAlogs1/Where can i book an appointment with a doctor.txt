@@ -1,0 +1,3 @@
+Query: Where can i book an appointment with a doctor?
+
+No Context or too much was retrieved.

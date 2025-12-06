@@ -1,0 +1,10 @@
+1. What does it mean when a requested URL is not found on a server?
+2. What are common reasons for a webpage not being found?
+3. How can I troubleshoot a "404 Not Found" error?
+4. What should I do if I encounter a "URL not found" message?
+5. Can a URL change, leading to it not being found?
+6. What steps can webmasters take to prevent "not found" errors?
+7. Is there a way to recover a page that returns a "not found" error?
+8. How can I report a broken link on a website?
+9. What tools can I use to check for broken URLs on my site?
+10. Are there any SEO implications for having "404 Not Found" errors on my website?

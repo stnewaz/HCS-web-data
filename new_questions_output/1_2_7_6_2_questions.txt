@@ -1,0 +1,8 @@
+1. What triggered the security block on the website?
+2. Which actions can lead to being blocked by the security service?
+3. How can I contact the site owner regarding the block?
+4. What information should I include in my email to the site owner?
+5. What is the significance of the Cloudflare Ray ID?
+6. What does the Cloudflare Ray ID indicate?
+7. How can I find out my IP address when blocked?
+8. What security service is protecting the website?

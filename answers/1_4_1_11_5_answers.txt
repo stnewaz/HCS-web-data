@@ -1,0 +1,30 @@
+1.
+SurveyMonkey is used for conducting surveys related to university teaching, learning, research, and administrative purposes.
+
+2.
+The SurveyMonkey application and data are hosted in Canada by a commercial provider external to SFU.
+
+3.
+All support for the SurveyMonkey Service is provided by SurveyMonkey.
+
+4.
+A wide variety of question types.
+
+5.
+To log in to SurveyMonkey, read the Terms of Service and check the box below to reveal the login. Then, access the CAS login page for account authorization and access.
+
+6.
+Support for SurveyMonkey surveys can be found at SurveyMonkey's help site.
+
+7.
+SFU IT Services
+
+8.
+Surveys for university-related teaching, learning, research, and administrative purposes.
+
+9.
+Yes, support for SurveyMonkey can be found at SurveyMonkey's help site.
+
+10.
+You can read the Terms of Service in the provided context above, as it mentions "Read the Terms of Service" followed by a prompt to check a box to reveal the login.
+

@@ -1,0 +1,92 @@
+1.
+9 am to 4 pm, Monday to Friday
+
+2.
+1250 Maggie Benston Centre, Simon Fraser University, Burnaby BC V5A 1S6
+
+3.
+You can contact CAL via email at caladmin@sfu.ca.
+
+4.
+778.782.3112
+
+5.
+The University has provided updates on online exam procedures for the duration of remote instruction, which can be found at http://www.sfu.ca/students/scheduling/exam-scheduling-guidelines.html. Accommodations for students with disabilities during online exams will also be facilitated, with notifications and reminders sent to instructors regarding specific exam accommodation needs. Instructors are expected to adjust test durations in Canvas for students requiring extra time. The CAL will communicate with instructors to support students needing unique or demanding accommodations, and exam notifications will continue to be sent via email.
+
+6.
+Accommodations for students with disabilities during the summer term will be managed as follows:
+
+1. Accommodation notices will continue to be sent to instructors via email starting the week of May 19.
+2. Lecture accommodations (e.g., audio recording) will apply to students’ live, online lectures where relevant.
+3. Exam notifications/reminders will be sent to instructors once a student has requested accommodations for a specific test.
+4. Instructors will oversee the administration of exams for students with straightforward accommodations (e.g., additional time less than or equal to 66%).
+5. CAL will oversee the administration of exams for students requiring exceptional accommodations (e.g., additional time greater than 67%, use of a scribe).
+6. Extra exam time accommodations will be implemented by instructors/TAs by adjusting the student’s test duration in Canvas or alternative platforms.
+7. Students have been asked to submit test booking requests online to CAL, up to one week in advance for midterms/quizzes, and two weeks before finals.
+8. Assistance will be provided for implementing accommodations via Zoom when required for students with specific needs.
+9. Instructors are encouraged to consult CAL for any issues regarding the implementation of accommodations.
+
+7.
+Accommodation notices will be sent to instructors via email starting the week of May 19.
+
+8.
+Lecture accommodations may include audio recording and/or note taking accommodations for students where lectures are delivered live and no recording is otherwise available.
+
+9.
+Students with straightforward accommodations (e.g., a standard increment of extra time) will be expected to write exams alongside their classmates and be invigilated (where applicable) by their instructors/TAs.
+
+10.
+Instructors should ensure that exams for students requiring unique or demanding accommodations (e.g., use of a scribe or a relatively large increment of extra time) are administered and invigilated by the Centre for Accessible Learning (CAL) via Zoom. They should communicate with CAL to identify and implement appropriate accommodations.
+
+11.
+Instructors can adjust test durations in Canvas for students with extra time accommodations by following these steps:
+
+1. Calculate the extra time required based on the student's accommodation.
+2. Modify the individual student's test time in Canvas to reflect their adjusted exposure/writing time, which includes both the extra time and any allotted break time.
+3. For detailed step-by-step illustrated instructions, refer to the link: [Canvas Extra Time Instructions](http://www.sfu.ca/students/accessible-learning/faculty/resources/canvas-extra-time.html).
+
+12.
+If an exam is not administered on Canvas, the following steps should be taken:
+
+1. Adjust the exposure time to reflect the student’s entitlement and inform the student of their adjusted return time for the exam.
+2. The student's adjusted exposure/writing time should include both their extra time and any time allotted for breaks.
+3. If the exam is scheduled in the evening and the adjustments would result in the student writing past 10 PM, adjust the start time for the CAL registrant to ensure they finish by 10 PM.
+4. If accommodations cannot be effectively implemented, explore flexible alternatives with the student’s Disability Access Advisor, such as providing an assignment or paper instead of a time-based exam.
+
+13.
+Evening exam schedules for CAL registrants should be adjusted to an earlier start time to ensure they finish by 10:00 PM, as all examinations at SFU are scheduled to end by this time.
+
+14.
+Assistive technologies available for students during exams may include:
+
+- Voice-to-Text software
+- Text-to-Voice software
+- Screen-readers
+- Other specific software technology as required by individual accommodations
+
+15.
+Instructors can access the list of CAL registrants and their accommodations in their courses by visiting the following link: https://clockwork.its.sfu.ca/ClockWork/user/instructor/letters.aspx.
+
+16.
+The Centre for Educational Excellence has resources available to support remote instruction and exam administration. More information regarding supports for exams can be found at: https://www.sfu.ca/cee/services/online-exam-options.html. Additionally, resources for remote teaching are available at: https://www.sfu.ca/cee/services/online-remote-teaching.html. Best practices for incorporating Universal Design principles into Canvas courses can be found at: http://www.sfu.ca/canvas/instructors/universal-design/building_udl_into_canvas.html. An accessibility checker for Canvas is available at: http://www.sfu.ca/canvas/instructors/universal-design/udl_udoit_tool.html. For further assistance, contact caladmin@sfu.ca or 778.782.3112.
+
+17.
+For routine, time-limited exams (e.g., a 3 hour final), the CAL has created an Excel file and a Google Sheet document (referred to as the “CAL Accommodated Time Calculator”) to assist in your calculation of accommodated time for CAL registrants. 
+
+It is recommended that instructors download and use the following Excel version of the CAL Accommodated Time Calculator, which can be used offline: [Excel version link].
+
+To access the online Google Sheets version of the CAL Accommodated Time Calculator, please visit the following link: [Google Sheets version link].
+
+Please note that the online version only supports one user at a time, but provides access to those who may not have Excel.
+
+If you have questions or concerns regarding the use of the calculator or providing CAL registrants with their accommodated time, please contact the Centre by email at caladmin@sfu.ca or by phone or voicemail at 778.782.3112.
+
+18.
+If a CAL registrant approaches you about difficulties completing an exam due to a report of a significant exacerbation of disability-related symptoms, please contact the Centre for Accessible Learning (CAL) at caladmin@sfu.ca or by phone at 778.782.3112 to determine if further accommodations may be required.
+
+19.
+To accommodate a student who requires a scribe or reader for their exam, the Centre for Accessible Learning (CAL) will oversee the administration and invigilation of the exam via Zoom. The process should involve communication between CAL and the instructor to create a plan of action.
+
+20.
+If you have additional questions about accommodating CAL registrants, please contact the Centre for Accessible Learning (CAL) via email at caladmin@sfu.ca or by phone at 778.782.3112.
+

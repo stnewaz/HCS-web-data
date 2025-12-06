@@ -1,0 +1,10 @@
+1. What does it mean when a requested URL is not found on a server?
+2. What are common reasons for a 404 error?
+3. How can I troubleshoot a missing webpage?
+4. What steps should I take if I encounter a "URL not found" message?
+5. Is there a way to recover a deleted webpage?
+6. How can I check if a URL is valid?
+7. What should I do if I think a webpage has moved?
+8. Can a website owner fix a "not found" error?
+9. How can I report a broken link to a website?
+10. What tools can I use to check for broken links on my site?

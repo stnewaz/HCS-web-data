@@ -1,0 +1,64 @@
+1.
+The TELUS Health Student Support app is designed to help students succeed by providing access to the TELUS Health’s Student Support Program, allowing students to connect with multilingual clinicians for support anytime, from anywhere.
+
+2.
+Yes, the TELUS Health Student Support app is free to use.
+
+3.
+Multilingual clinicians, licensed psychologists.
+
+4.
+1. The chat function is criticized for being unhelpful and the counselor being dry and robotic in responses.
+2. Users reported long response times and a lack of empathy from counselors, leading to feelings of frustration.
+3. Some users experienced counselors directing them to seek further help instead of providing immediate support.
+4. There were complaints about the chat interface being slow and lacking features like read receipts.
+5. Overall, several users found the chat function inadequate and not supportive for those in need.
+
+5.
+Users can provide feedback about their experiences with the app by submitting details at myssp.app/ca/feedback.
+
+6.
+1. The chat function is unhelpful and lacks empathy; responses from counselors are slow and robotic.
+2. Some users feel counselors do not provide adequate support and instead suggest seeking a psychiatrist prematurely.
+3. There are software glitches that hinder the user experience during counseling sessions.
+4. Users reported that counselors may not be fully engaged or attentive to their needs.
+5. The chat interface is slow, and time stamps take up too much space, affecting usability.
+6. Some users found the counselors to be detached and lacking personality.
+
+7.
+1. Connection with licensed psychologists available for free over a semester.
+2. Access to multilingual clinicians experienced in working with diverse student backgrounds.
+3. Availability of wellness resources and articles.
+
+8.
+The developers have consistently expressed apologies for the negative experiences shared by users and have encouraged them to submit detailed feedback through a specific link (myssp.app/ca/feedback) to address the issues and improve the app for future users.
+
+9.
+The app provides access to multilingual clinicians and is created by clinical and cultural experts experienced in working with students from diverse backgrounds.
+
+10.
+Changes include: Bug fixes and rebranding improvements.
+
+11.
+The developer does not collect any data from this app.
+
+12.
+The app provides access to multilingual clinicians, counseling sessions, and connection with licensed psychologists. It aims to help students with mental health issues and offers resources for support.
+
+13.
+Yes.
+
+14.
+1. Poor performance of the chat function.
+2. Lack of empathy from counselors.
+3. Slow response times during chat sessions.
+4. Difficulty in determining if the counselor is legitimate.
+5. Ineffective suggestions from counselors (e.g., redirecting to a psychiatrist).
+6. Software glitches and slow chat interface.
+7. Waiting time to connect with a counselor.
+8. Ineffective communication and lack of personalized support.
+9. Issues with receiving phone calls instead of text support.
+
+15.
+The developer, Morneau Shepell Inc, indicated that the app’s privacy practices may include handling of data as described in their privacy policy. However, the developer does not collect any data from this app. Privacy practices may vary based on the features used or the user's age.
+

@@ -1,0 +1,35 @@
+1.
+The purpose of the SCREEN READER MODE is to make the survey compatible with screen readers.
+
+2.
+To enable SCREEN READER MODE on the website, look for the option or setting labeled "SCREEN READER MODE" and check or toggle it on.
+
+3.
+The features available in SCREEN READER MODE include compatibility with screen readers, which allows visually impaired users to access and complete the survey.
+
+4.
+No, SCREEN READER MODE may not support all types of content on the website.
+
+5.
+No specific software is mentioned as required to use SCREEN READER MODE.
+
+6.
+Yes, you can provide feedback about your experience using SCREEN READER MODE.
+
+7.
+Yes, accessibility guidelines are followed for SCREEN READER MODE.
+
+8.
+If you encounter issues while using SCREEN READER MODE, try the following steps: 
+
+1. Ensure your screen reader is updated to the latest version.
+2. Check the compatibility settings of your screen reader with the survey platform.
+3. Refresh the page or restart your browser.
+4. Contact technical support for assistance specific to the survey.
+
+9.
+Yes, SCREEN READER MODE is available on mobile devices.
+
+10.
+SCREEN READER MODE improves usability by providing text that can be read aloud by screen readers, ensuring visually impaired users can navigate and understand the content of the website more easily.
+

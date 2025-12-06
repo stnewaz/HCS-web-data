@@ -2,7 +2,7 @@ import pandas as pd
 
 def add_embedding_to_df(file_path, embedding_path):
 
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(file_path, encoding="latin1")
     embedding_df = pd.read_csv(embedding_path)
 
     embedding_list_retrieved = [embedding_df.iloc[i].tolist() for i in range(len(embedding_df))]

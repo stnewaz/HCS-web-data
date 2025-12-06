@@ -1,0 +1,27 @@
+Query: What resources are there for students in crisis?
+
+Index: 0
+Question: What resources are available for supporting students in distress?
+Answer: - My SSP (Student Support Program) offers free, confidential 24/7 mental health support.
+- Access My SSP through the app or by calling 1.844.451.9700 (or 001.416.380.6578 outside North America).
+- Promote My SSP and Health and Counselling Services.
+- Download the My SSP app and encourage students to do the same.
+- Assist students in accessing My SSP with their consent.
+- Assisted Referral: help students connect with My SSP for the first time.
+- Outreach Request: ask My SSP to call the student.
+- Call 1.844.451.9700 for staff/faculty consultation on supporting students.
+- Chat with an advisor through the My SSP app for advice.
+- Contact SFU Health and Counselling Services during office hours for assistance.
+- Learn how to support students in distress and identify signs of distress.
+- Resources and support services for SFU faculty and staff.
+File: 1_4_2
+URL: https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html
+Similarity: 0.8546170342933701
+
+Index: 1
+Question: Are there any resources available for those in crisis?
+Answer: Yes, there are resources available for those in crisis, including the 9-8-8: Suicide Crisis Helpline, which offers a safe space to talk 24 hours a day, every day of the year. If safety is at risk, individuals are advised to call 9-1-1 immediately.
+File: 1_3_1
+URL: https://988.ca
+Similarity: 0.8247014279572513
+

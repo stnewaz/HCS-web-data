@@ -19,7 +19,7 @@ def read_col_values_from_file(question_directory, answer_directory, filename):
     answers = re.split(r'\n(?=\d+\.\n)', content_of_answer_file)
     answers = [a.strip().split('.\n')[1] for a in answers]
 
-    website_data = pd.read_csv('HCS website.csv')
+    website_data = pd.read_csv('HCS_website_edited.csv')
     filtered_df = website_data[website_data['name'] == filename]
 
     data = []
@@ -33,7 +33,7 @@ def read_col_values_from_file(question_directory, answer_directory, filename):
     return data
 
 
-q_directory = 'questions'
+q_directory = 'new_questions_output'
 a_directory = 'answers'
 all_files = [file_name.strip('_questions.txt') for file_name in os.listdir(q_directory)]
 
@@ -50,7 +50,7 @@ for i, file in enumerate(all_files[start:]):
 print(df)
 # [1745 rows x 4 columns]
 
-df.to_csv('StructuredQA.csv', index=False)
+df.to_csv('StructuredQA_final.csv', index=False)
 #test
 #df = pd.read_csv('StructuredQA.csv')
 #print(df.head(3))

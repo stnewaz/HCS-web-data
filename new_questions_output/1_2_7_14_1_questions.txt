@@ -1,0 +1,4 @@
+1. What technology powers the website?
+2. Who is responsible for the website's functionality?
+3. Is there a specific company or service associated with the term "Powered by"?
+4. What does "Powered by" indicate about the website's infrastructure?

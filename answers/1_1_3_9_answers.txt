@@ -1,0 +1,64 @@
+1.
+It means that the server could not locate the resource associated with the requested URL, indicating that the page may have been moved, deleted, or the URL was entered incorrectly.
+
+2.
+1. The URL was typed incorrectly.
+2. The page has been moved or deleted.
+3. The link is outdated or broken.
+
+3.
+1. Check the URL for typos or errors.
+2. Ensure the URL is correctly formatted.
+3. Verify that the resource exists on the server.
+4. Clear your browser cache and try again.
+5. Try accessing the URL from a different device or network.
+6. Check for any server maintenance or outages.
+7. Contact the website administrator for assistance.
+
+4.
+1. Check the URL for typos or errors.
+2. Refresh the page or try again later.
+3. Use the website's search function to find the content.
+4. Navigate to the homepage and look for links to the desired page.
+5. Clear your browser's cache and cookies.
+6. Contact the website's support for assistance if the issue persists.
+
+5.
+1. Check the URL for typos or errors.
+2. Refresh the page or try accessing it later.
+3. Use the website's search function to find the content.
+4. Navigate back to the homepage and look for links to the desired page.
+5. Contact the website's support or webmaster for assistance.
+
+6.
+1. Check the URL for typos or errors.
+2. Ensure the page has not been moved or deleted.
+3. Update any broken links on the website.
+4. Create a custom 404 error page to assist users.
+5. Use redirects to guide users to the correct page.
+6. Check server settings and permissions.
+7. Monitor website for orphaned pages.
+
+7.
+1. Website monitoring tools
+2. Server log analysis
+3. URL validation tools
+4. Browser developer tools
+5. Command line tools (e.g., curl, wget)
+6. Online URL checkers
+
+8.
+You can use the Wayback Machine (web.archive.org) to find archived versions of the content that used to be at a missing URL.
+
+9.
+A "404 Not Found" error can negatively impact website SEO by:
+
+1. Reducing user experience, leading to higher bounce rates.
+2. Causing search engines to devalue the website if errors are frequent.
+3. Hindering the indexing of pages if important content is not accessible.
+4. Leading to loss of potential backlinks if the linked pages are not found.
+5. Affecting the overall authority and trustworthiness of the site in search engine rankings.
+
+10.
+Yes, a "404 Not Found" error can be avoided in web development by implementing proper URL routing, regularly checking for broken links, using redirects for moved content, and providing a custom 404 error page that guides users back to functional areas of the site.
+

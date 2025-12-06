@@ -1,0 +1,64 @@
+1.
+The purpose of laboratory safety programs at SFU is to ensure the health and safety of university members, ensure regulatory compliance, set out program-specific requirements, and support education and training.
+
+2.
+EHS has created a Laboratory Power Outages Guide and a Laboratory Power Outages Infosheet.
+
+3.
+SFU manages hazardous materials through established programs such as the Biosafety, Radiation Safety, and Chemical Safety Programs, which regulate the safe use, storage, and disposal of these materials. Additionally, SFU has a Hazardous Materials Emergency Response Plan in place for responding to incidents, assessing risks, assigning responsibilities, and outlining necessary steps during emergencies.
+
+4.
+1. Conduct an initial risk assessment to determine the situation.
+2. For minor spills (less than 50 mL) that present no immediate threat, lab workers can usually clean them up.
+3. If in doubt about a minor spill, evacuate and call for assistance.
+4. For major spills that present an immediate threat, notify everyone around and immediately evacuate using the further exit from the spill.
+5. Call Campus Public Safety (778.782.4500) and Environmental Health and Safety for assistance.
+6. If necessary, evacuate the entire building by pulling the fire alarm and calling 911.
+
+5.
+Spills of less than 50 mL are normally considered to be minor.
+
+6.
+1. Notify everyone around you.
+2. Immediately evacuate using the further exit from the spill.
+3. Call Campus Public Safety (778.782.4500) and Environmental Health and Safety for assistance.
+4. If necessary, evacuate the entire building by pulling the fire alarm and calling 911.
+
+7.
+The SFU Laboratory safety manual can be found assembled as key information from the SFU Laboratory safety program in a single document.
+
+8.
+Biosafety Program, Radiation Safety Program, Chemical Safety Program.
+
+9.
+SFU ensures compliance with WorkSafeBC regulations by having a Hazardous Materials Emergency Response Plan that complies with Part 5 of WorkSafeBC's Occupational Health and Safety Regulation. This plan outlines the requirements for emergency planning related to hazardous substances and was recently updated to incorporate regulatory amendments. Additionally, the laboratory safety programs support education, training, and establish program-specific requirements for the safe use, storage, and disposal of hazardous materials.
+
+10.
+The Laboratory Power Outages Guide includes suggested actions to take before, during, and after a power outage impacting laboratory operations.
+
+11.
+Before a power outage:
+- Develop a plan to protect laboratory equipment, materials, and research.
+- Prepare using the Laboratory Power Outages Guide and Infosheet.
+
+During a power outage:
+- Follow the actions outlined in the Laboratory Power Outages Guide and Infosheet.
+
+After a power outage:
+- Assess the condition of equipment and materials.
+- Implement any necessary recovery procedures as indicated in the guide.
+
+12.
+Call Campus Public Safety (778.782.4500) and Environmental Health and Safety for assistance. If it is necessary to evacuate the entire building, pull the fire alarm and call 911.
+
+13.
+For skin and eye exposure to Chemical or Biological hazards: [specific procedures not provided in the context]
+
+For skin and eye exposure to Radiological materials: [specific procedures not provided in the context]
+
+14.
+The Laboratory Access Protocol contains information for Facilities Services and the laboratory staff, as well as for contractors.
+
+15.
+Occasional brief periods.
+

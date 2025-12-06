@@ -1,0 +1,8 @@
+1. What should I do if my files exceed the maximum size for uploads?
+2. How can I create a free account on SFU Vault?
+3. What is SFU Vault?
+4. Where is SFU Vault's data stored?
+5. Is SFU Vault a secure storage option?
+6. Can I sync my devices with SFU Vault?
+7. What are the benefits of using SFU Vault for file storage?
+8. Are there any limitations to the file sizes I can upload to SFU Vault?
