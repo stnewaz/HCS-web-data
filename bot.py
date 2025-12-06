@@ -51,6 +51,7 @@ def BotUser_dialogue_cycle(bot, user):
     while end_flag is not True:
         print("Bot>> " + ai_message.content)
         print("Bot>> " + ai_message.content, file=f)
+        print("Please remember that this chatbot is is only equipped to handle questions regarding services and resources provided by SFU Health and Couneslling website. This bot is not a licensed medical practicioner. Please see a doctor of professional for medical advice and diagnoses.")
         print(file=f)
 
 

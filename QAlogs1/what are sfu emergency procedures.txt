@@ -1,0 +1,9 @@
+Query: what are sfu emergency procedures?
+
+Index: 0
+Question: What should I do in case of an emergency at SFU?
+Answer: In case of an emergency at SFU, you should contact 24/7 Emergency Contacts and report any hazards or incidents.
+File: 1_4_6_7
+URL: https://www.sfu.ca/srs.html
+Similarity: 0.8302699452945138
+

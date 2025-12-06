@@ -1,0 +1,66 @@
+Query: Is there counselling for international students?
+
+Index: 0
+Question: Where can I find more information about counselling services for international students?
+Answer: The page for counselling services for international students cannot be found. You can contact the following numbers for assistance:  
+Burnaby campus: 778.782.4615  
+Vancouver campus: 778.782.5200  
+Surrey campus: 778.782.5200
+File: 1_2_5
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services/SupportForInternationalStudents.html 
+Similarity: 0.8717144517500027
+
+Index: 1
+Question: What support options does Health & Counselling offer for international students?
+Answer: Health & Counselling offers one-on-one assistance, group sessions, and support from a Transition Case Manager for international students.
+File: 1_3_2
+Query: Is there counselling for international students?
+
+Index: 0
+Question: Where can I find more information about counselling services for international students?
+Answer: The page for counselling services for international students cannot be found. You can contact the following numbers for assistance:  
+Burnaby campus: 778.782.4615  
+Vancouver campus: 778.782.5200  
+Surrey campus: 778.782.5200
+File: 1_2_5
+https://www.sfu.ca/students/health/support-resources/counselling-services/SupportForInternationalStudents.html 
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services/SupportForInternationalStudents.html 
+Similarity: 0.8717183371690208
+
+Index: 1
+Question: What support options does Health & Counselling offer for international students?
+Answer: Health & Counselling offers one-on-one assistance, group sessions, and support from a Transition Case Manager for international students.
+File: 1_3_2
+nan
+Query: Is there counselling for international students?
+
+Index: 0
+Question: Where can I find more information about counselling services for international students?
+Answer: The page for counselling services for international students cannot be found. You can contact the following numbers for assistance:  
+Burnaby campus: 778.782.4615  
+Vancouver campus: 778.782.5200  
+Surrey campus: 778.782.5200
+File: 1_2_5
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services/SupportForInternationalStudents.html 
+Similarity: 0.8717183371690208
+
+Index: 1
+Question: What support options does Health & Counselling offer for international students?
+Answer: Health & Counselling offers one-on-one assistance, group sessions, and support from a Transition Case Manager for international students.
+File: 1_3_2
+Query: Is there counselling for international students?
+
+Index: 0
+Question: Where can I find more information about counselling services for international students?
+Answer: The page for counselling services for international students cannot be found. You can contact the following numbers for assistance:  
+Burnaby campus: 778.782.4615  
+Vancouver campus: 778.782.5200  
+Surrey campus: 778.782.5200
+File: 1_2_5
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services/SupportForInternationalStudents.html 
+Similarity: 0.8717183371690208
+
+Index: 1
+Question: What support options does Health & Counselling offer for international students?
+Answer: Health & Counselling offers one-on-one assistance, group sessions, and support from a Transition Case Manager for international students.
+File: 1_3_2

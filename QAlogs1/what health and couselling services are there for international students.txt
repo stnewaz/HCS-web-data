@@ -1,0 +1,6 @@
+Query: what health and couselling services are there for international students?
+
+Index: 0
+Question: What support options does Health & Counselling offer for international students?
+Answer: Health & Counselling offers one-on-one assistance, group sessions, and support from a Transition Case Manager for international students.
+File: 1_3_2

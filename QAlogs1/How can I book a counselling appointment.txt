@@ -1,0 +1,18 @@
+Query: How can I book a counselling appointment?
+
+Index: 0
+Question: How can I book an appointment for counselling?
+Answer: You can book appointments online, by phone at 778-782-4615, or in-person. Appointments can be booked up to two business days in advance.
+File: 1_2_4
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.9767724880904034
+
+Query: How can i book a counselling appointment?
+
+Index: 0
+Question: How can I book an appointment for counselling?
+Answer: You can book appointments online, by phone at 778-782-4615, or in-person. Appointments can be booked up to two business days in advance.
+File: 1_2_4
+URL: https://www.sfu.ca/students/health/support-resources/counselling-services.html
+Similarity: 0.9458861248904676
+

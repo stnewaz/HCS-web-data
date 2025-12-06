@@ -1,0 +1,9 @@
+Query: What support is there for lgbtq+ students?
+
+Index: 0
+Question: What resources are available for LGBTQIA2S+ students?
+Answer: The resources available for LGBTQIA2S+ students include a draft/work-in-progress list of resources to support faculty in creating a safer and more inclusive university environment for trans, gender non-binary, and other gender diverse students, research participants, staff, faculty, and community stakeholders. For updates, additions, and feedback, contact travis_salway@sfu.ca and pardiles@sfu.ca.
+File: 1_4_1_12
+URL: https://www.sfu.ca/content/sfu/healthycampuscommunity/learningenvironments/resource-library.html
+Similarity: 0.8437264137947403
+
