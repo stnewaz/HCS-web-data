@@ -14,3 +14,127 @@ For more information on accessing counseling services at the university, you can
 
 User>>exit
 
+Bot>> Hello! How can I assist you today? If you have any questions about counseling services at SFU, feel free to ask!
+
+User>>how do i book an appointment with a counsellor?
+
+Bot>> Hello! How can I assist you today? If you have any questions about counseling services or resources at SFU, feel free to ask!
+
+User>>How do I book a counselling appointment?
+
+Bot>> Hello! How can I assist you today? If you have any questions about SFU counseling services or related topics, feel free to ask!
+
+User>>How can I book a counselling appointment?
+
+Bot>> You can book a counseling appointment at SFU by doing any of the following:
+
+1. Online through the provided system.
+2. By phone at 778-782-4615.
+3. In-person at the counseling services office.
+
+Please note that appointments can be booked up to two business days in advance. For more information, you can visit the [SFU Counseling Services webpage](https://www.sfu.ca/students/health/support-resources/counselling-services.html).
+
+User>>Where can I do my course selection for next semester?
+
+Bot>> It looks like your message might have been cut off. How can I assist you further? If you have more questions, feel free to ask!
+
+User>>what is 2+2
+
+Bot>> It seems that there might be an issue with your messages not coming through. If you have a question or need assistance, please try sending it again. I'm here to help!
+
+User>>It's sunny outside today
+
+Bot>> I m here to help! If you have a question or need any information, please let me know. You can ask about SFU counseling services or anything else you might need assistance with!
+
+User>>adhd
+
+Bot>> It seems like there are no messages coming through. If you have any questions or need assistance, please try typing your message again. I'm here to help!
+
+User>>I think i sprained my ankle when i tripped going down the stairs yesterday. it's really swollen and i can't stand on it properly, and today it is very bruised. what do i do?
+
+Bot>> I notice that no text is appearing in your messages. If you can see this, please go ahead and type your question or comment, and I ll do my best to assist you!
+
+User>>i feel really depressed right now
+
+Bot>> It seems like there might be a technical issue with your messages not arriving. If you have any questions or need assistance, please try again, and I'll be here to help!
+
+User>>I want to kill myself
+
+Bot>> It looks like your messages are still not coming through. If you're trying to ask something, please feel free to type it again! I'm here to help you with any questions you might have.
+
+User>>I'm in crisis right now i need help
+
+Bot>> It seems I m not receiving your messages. If you're attempting to ask a question or share something, please try typing it again. I'm here to assist you!
+
+User>>What resources are there for students in crisis?
+
+Bot>> For students in crisis, there are several resources available:
+
+1. **9-8-8: Suicide Crisis Helpline** - This helpline offers a safe space to talk 24 hours a day, every day of the year. If someone s safety is at risk, it is crucial to call 9-1-1 immediately.
+
+2. **My SSP (Student Support Program)** - Provides free, confidential mental health support 24/7. You can access My SSP through their app or by calling 1.844.451.9700 (or 001.416.380.6578 from outside North America).
+
+For additional support and to learn more about assisting students in distress, you can refer to the [SFU resources for faculty and staff](https://www.sfu.ca/students/health/faculty-staff/faculty-staff-resources.html).
+
+Is this the information you were looking for? If you have any more questions or need further details, feel free to ask!
+
+User>>where can i book an appointment with a doctor
+
+Bot>> It seems that no message is coming through. If you have a question or need assistance regarding resources for students in crisis or any other topic, please try typing it again. I'm here to help!
+
+User>>Where can i book an appointment with a doctor?
+
+Bot>> It looks like I'm not receiving any messages from you. If you have a question or need help, please try sending it again. I'm here to assist you!
+
+User>>exit
+
+Bot>> Hello! How can I assist you today? If you have any questions about counselling services at SFU, feel free to ask!
+
+User>>what health and couselling services are there for international students?
+
+Bot>> Hello! How can I assist you today? If you have any questions about SFU's counselling services, feel free to ask!
+
+User>>what services are available for international students?
+
+Bot>> It seems like your message didn't come through. If you have a question or need assistance, please feel free to share!
+
+User>>is there counsellig for international students?
+
+Bot>> It looks like there might be a technical issue, as I m not receiving any text. If you have a question or need information about SFU counselling services, please try typing your message again!
+
+User>>what are sfu emergency procedures?
+
+Bot>> In case of an emergency at SFU, you should contact the 24/7 Emergency Contacts and report any hazards or incidents. For more detailed information about emergency procedures at SFU, you can visit the Safety & Risk Services page at [this link](https://www.sfu.ca/srs.html).
+
+Is this the information you were looking for? Let me know if you have any other questions!
+
+User>>Is there counselling for international students?
+
+Bot>> Hello! How can I assist you today? If you have any questions about counselling services at SFU, feel free to ask!
+
+User>>Is there counselling for international students?
+
+Bot>> Hello! How can I assist you today? If you have any questions about SFU counselling services or related topics, feel free to ask.
+
+User>>What counselling is there for international students?
+
+Bot>> Hello! How can I assist you today? If you have any questions about SFU counseling services or related topics, feel free to ask!
+
+User>>Is there counselling for international students?
+
+Bot>> Hello! How can I assist you today? If you have any questions related to SFU counselling or mental health resources, feel free to ask!
+
+User>>What support is there for black students
+
+Bot>> It seems like your message didn't come through. If you have any questions or need information, just let me know! I'm here to help.
+
+User>>What support is there for students with adhd?
+
+Bot>> It looks like there might be an issue with your messages. If you need assistance or have a question, please try typing it again!
+
+User>>What services are there for international students?
+
+Bot>> I m here to help! If you have any questions or need information, feel free to type your message.
+
+User>>Is there counselling for international students?
+
