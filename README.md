@@ -1,3 +1,6 @@
+
+***Please unzip the EmbeddingsFinal.zip file - the file is too big to upload to our repository directly.***
+
 Sample file : https://github.com/minooshayan97/HCS-web-data/blob/master/HCS%20website.csv
 
 Your dataset will have these columns : Name|Title|link|Class
