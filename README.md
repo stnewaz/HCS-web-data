@@ -1,3 +1,4 @@
+AI Chatbot for the SFU Health and Counseling website. 
 
 ***Please unzip the EmbeddingsFinal.zip file - the file is too big to upload to our repository directly.***
 - The file generate_embed.py includes the updated embedding code
